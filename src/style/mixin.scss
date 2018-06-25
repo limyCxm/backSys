@@ -1,0 +1,5 @@
+ //长宽公式
+ @mixin wh($width,$height){
+     width: $width;
+     height: $height;
+ }

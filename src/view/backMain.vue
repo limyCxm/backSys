@@ -99,6 +99,7 @@
             float: left;
             padding: 0 20px;
             color: #fff;
+            cursor: pointer;
         }
         >.router-link-active{
             color: aqua;
